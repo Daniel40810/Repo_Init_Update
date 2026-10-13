@@ -1,0 +1,8 @@
+# Zeilenenden normalisieren
+* text=auto
+
+# Batch-Dateien brauchen CRLF, damit cmd.exe sie sauber ausführt
+*.bat text eol=crlf
+
+# Icons sind Binärdateien
+*.ico binary
