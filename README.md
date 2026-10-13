@@ -11,7 +11,6 @@ Zwei kleine Windows-Batch-Skripte für Git, mit passenden Icons im Stil von `hei
 | `gitignore-netbeans.txt` | Vorlage für `.gitignore` in NetBeans/Ant-Projekten (`build/`, `dist/`, `nbproject/private/`, …) |
 | `Git_Init.ico` | Icon für `Git_Init.bat` (Commit-Graph) |
 | `Git_Update.ico` | Icon für `Git_Update.bat` (Aktualisierungs-Pfeil) |
-| `heidelberg.ico` | Referenz-Icon für den Stil der Reihe |
 | `.gitattributes` | Zeilenenden und Binärdateien für Git |
 
 ## Verwendung
