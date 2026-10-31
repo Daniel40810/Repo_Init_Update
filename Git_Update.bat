@@ -35,7 +35,7 @@ if errorlevel 1 (
 
 echo.
 echo === Push zu origin/master ===
-git.exe push origin master || goto :fail
+git.exe push -u origin HEAD || goto :fail
 
 echo.
 echo === Fertig! ===
